@@ -10,6 +10,9 @@ In this project we seek to solve the Labor Supply Problem.
 
 - Then we redefinde the value of espilon from 0.3 to 0.1 to find out what impact a lower Frisch-elasticity has on the tax revenue.
 
+- To calculate the total tax revenue we 
+
+
 The **results** of the project can be seen from running [inauguralproject.ipynb](inauguralproject.ipynb).
 
 **Dependencies:** Apart from a standard Anaconda Python 3 installation, the project requires no further packages.
