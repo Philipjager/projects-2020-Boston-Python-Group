@@ -1,6 +1,6 @@
 # Assignment 2
 
-Our project is titled **Midicine_Prices**.
+Our project is titled **Medicine_Prices**.
 
 The **results** of the project can be seen from running our Python-file and solution guide.
 
