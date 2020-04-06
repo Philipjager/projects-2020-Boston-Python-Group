@@ -22,7 +22,7 @@ plt.style.use('seaborn-whitegrid')
 import os
 
 
-#Focus of project
+# Focus of project
 
  
 Our project is focussing on finding the trend in various painkiller and their prices. 
