@@ -20,7 +20,9 @@ plt.style.use('seaborn-whitegrid')
 
 # Directory
 import os
- #--------------------------------------
+
+
+#Focus of project
 
  
 Our project is focussing on finding the trend in various painkiller and their prices. 
